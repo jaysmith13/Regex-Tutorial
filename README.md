@@ -1,7 +1,7 @@
 # Regex-Tutorial
-# Title (replace with your title)
+# Redex-Tutorial 
 
-Introductory paragraph (replace this with your text)
+This page will break down how to validate email addresses.
 
 ## Summary
 
@@ -24,6 +24,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ## Regex Components
 
 ### Anchors
+The anchor is what starts and ends the regular expression. In the matching email code
 
 ### Quantifiers
 
@@ -40,11 +41,18 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ### Greedy and Lazy Match
 
 ### Boundaries
+This code doesn't use boundaries.
 
 ### Back-references
 
+This code doesn't use back references.
+
+
 ### Look-ahead and Look-behind
+
+If using a look-ahead or look-behind, then it has to match in a certain order. It is not being used in the given matching an email code.
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+This tutorial was created by Janea Smith 
+https://github.com/jaysmith13
